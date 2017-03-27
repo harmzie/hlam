@@ -2333,16 +2333,16 @@
 			background-color: #49ca9d;
 		}
 
-		.icon.alt.fa-twitter:before {
-			background-color: #8cd4e9;
+		.icon.alt.fa-linkedin:before {
+			background-color: #0084bf;
 		}
 
-		.icon.alt.fa-twitter:hover:before {
-			background-color: #77cce5;
+		.icon.alt.fa-linkedin:hover:before {
+			background-color: #0077B5;
 		}
 
-		.icon.alt.fa-twitter:active:before {
-			background-color: #4cbcdd;
+		.icon.alt.fa-linkedin:active:before {
+			background-color: #006097;
 		}
 
 		.icon.alt.fa-facebook:before {
